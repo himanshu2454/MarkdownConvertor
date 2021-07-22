@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/59935880-298f-4b70-b73f-fe34f06b1972/resourceGroups/Utility/providers/Microsoft.Web/sites/MakrdownConvertor",
+  "appService.deploySubpath": "build"
+}
